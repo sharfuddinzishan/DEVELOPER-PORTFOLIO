@@ -30,7 +30,7 @@ p{
 }
 
 section{
-    margin-bottom: 10px;
+    margin-bottom: 150px;
 }
 .flex-section
 {
@@ -66,12 +66,11 @@ section{
     background-repeat: no-repeat;
     background-position: left;
     background-position-y: 300px;
-    margin-bottom: 10px;
 }
 
 .exp-shadow{
     box-shadow: 8px 8px 30px gray;
-    border-radius: 0px 20px 20px 0px;
+    
     /* border-radius: 20px; */
     width: 35%;
     margin: 0 auto;
@@ -84,6 +83,7 @@ section{
     border-left: 10px solid;
     border-image:linear-gradient(blue,orange);
     border-image-slice: 1;
+    border-radius: 0px 20px 20px 0px;
 }
 
 #babydev
@@ -94,6 +94,5 @@ section{
 }
 
 footer p{
-    margin-top: 80px;
     text-align: center;
 }
